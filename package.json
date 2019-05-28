@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "http-proxy": "^1.9.0",
-    "lodash": "^3.9.3"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {},
   "scripts": {
